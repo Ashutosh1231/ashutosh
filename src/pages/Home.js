@@ -22,16 +22,16 @@ function Home  ()  {
 ing web technologies.
             </p>
             <div class="social-icons">
-              <a class="social-icon" href="https://www.linkedin.com/in/ashutosh-kasat/">
+              <a class="social-icon" href="https://www.linkedin.com/in/ashutosh-kasat/" target='_blank' rel="noopener noreferrer">
                 <i class="fab fa-linkedin-in"></i>
               </a>
-              <a class="social-icon" href="https://github.com/Ashutosh1231">
+              <a class="social-icon" href="https://github.com/Ashutosh1231" target='_blank' rel="noopener noreferrer">
                 <i class="fab fa-github"></i>
               </a>
-              <a class="social-icon" href="https://www.hackerrank.com/akasat54?hr_r=1">
+              <a class="social-icon" href="https://www.hackerrank.com/akasat54?hr_r=1" target='_blank' rel="noopener noreferrer">
                 <i class="fab fa-hackerrank"></i>
               </a>
-              <a class="social-icon" href="https://leetcode.com/akasat54/">
+              <a class="social-icon" href="https://leetcode.com/akasat54/" target='_blank' rel="noopener noreferrer">
               <i class="fa-solid fa-code"></i>
               </a>
             </div>
@@ -149,7 +149,7 @@ ing web technologies.
                 <i class="fab fa-css3-alt"></i>
               </li>
               <li class="list-inline-item">
-                <i class="fab fa-envira"></i>
+              <i class="devicon-spring-plain-wordmark"></i>
               </li>
               <li class="list-inline-item">
               <i class="fa-brands fa-java"></i>

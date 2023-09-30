@@ -30,8 +30,8 @@ function Skills  ()  {
               <li class="list-inline-item">
                 <i class="fab fa-css3-alt"></i>
               </li>
-              <li class="list-inline-item">
-                <i class="fab fa-envira"></i>
+              <li class="list-inline-item">  
+              <i class="devicon-spring-plain-wordmark"></i>
               </li>
               <li class="list-inline-item">
               <i class="fa-brands fa-java"></i>
